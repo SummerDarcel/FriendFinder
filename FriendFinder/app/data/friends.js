@@ -22,4 +22,4 @@ var friends = [
 ];
 
 
-module.exports = friendsArray;
+module.exports = friends;
