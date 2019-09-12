@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "json": "^9.0.6",
-    "node": "^12.10.0"
+    "node": "^10.16.1"
   },
   "devDependencies": {},
   "scripts": {
