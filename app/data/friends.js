@@ -6,7 +6,7 @@ var friends = [
     },
     {
         name: "Alexander",
-        photoURL: "https://fashionmagazine.com/culture/mens-fashion-the-talented-mr-skarsgard/",
+        photoURL: "https://cdn.fashionmagazine.com/wp-content/uploads/2012/10/alexander-skarsgard.jpg",
         scores: ["4", "4", "4", "3", "5", "2", "3", "5", "3", "5"]
     },
     {
