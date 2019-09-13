@@ -1,12 +1,12 @@
 var friends = [
     {
         name: "Dolph",
-        photoURL: "https://www.imdb.com/name/nm0000185/mediaviewer/rm1793314816",
+        photoURL: "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
         scores: ["3", "2", "1", "5", "4", "4", "3", "1", "2", "2"]
     },
     {
         name: "Alexander",
-        photoURL: "https://cdn.fashionmagazine.com/wp-content/uploads/2012/10/alexander-skarsgard.jpg",
+        photoURL: "https://static2.cbrimages.com/wordpress/wp-content/uploads/2017/12/alexander-skarsgard-tarzan.jpg?q=50&fit=crop&w=798&h=407",
         scores: ["4", "4", "4", "3", "5", "2", "3", "5", "3", "5"]
     },
     {
